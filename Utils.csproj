@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<PackageId>Utils</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>Ja2cc1976</Authors>
+	<Company>Ja2cc1976</Company>
+	<Description>Biblioteca con funciones de utilidad como validación de DNI, IBAN, emails, TitleCase,....</Description>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<RepositoryUrl>https://github.com/TuGitHub/Repositorio</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
