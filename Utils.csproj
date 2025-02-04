@@ -10,7 +10,7 @@
 	<Company>Ja2cc1976</Company>
 	<Description>Biblioteca con funciones de utilidad como validación de DNI, IBAN, emails, TitleCase,....</Description>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
-	<RepositoryUrl>https://github.com/TuGitHub/Repositorio</RepositoryUrl>
+	<RepositoryUrl>https://github.com/Ja2cc1976/Utils</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
